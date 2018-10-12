@@ -16,6 +16,7 @@ body{
   	width: 50%;
   	display: inline-block;
     box-sizing: border-box;
+    float: left;
   }
   .main__33{
     width: 33.333%;
@@ -28,55 +29,168 @@ body{
     box-sizing: border-box;
   }
   .main__1{
-    height: 150px;
+    height: 156px;
     border:solid white 5px;
     background: #b0e0c0;
     box-sizing: border-box;
+    font-size: 35px;
+    text-align: center;
+    color: #5f6465;
+    padding-top: 45px;
+    font-weight: 600;
   }
   .main__2{
-    height: 150px;
+    height: 156px;
     border:solid white 5px;
     background: #68c6b9;
     box-sizing: border-box;
-  }
-  .main__row_2{
-    height: 340px;
+    font-size: 35px;
+    text-align: center;
+    color: #5f6465;
+    padding-top: 45px;
+    font-weight: 600;
   }
   .main__3{
     height: 320px;
     background: #fa688a;
     border:solid white 5px;
     box-sizing: border-box;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    font-weight: 600;
   }
   .main__4{
     height: 165px;
     background: #8a95ef;
     border:solid white 5px;
     box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+    font-weight: 600;
   }
   .main__5{
     height: 165px;
     background: #8a95ef;
     border:solid white 5px;
     box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+    font-weight: 600;
   }
   .main__6{
     height: 165px;
     background: #8a95ef;
     border:solid white 5px;
     box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+    font-weight: 600;
   }
    .main__7{
-    height: 150px;
+    height: 155px;
     background: #ffc569;
     border:solid white 5px;
     box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+    font-weight: 600;
   }
   .main__8{
-    height: 150px;
+    height: 155px;
     background: #ffc569;
     border:solid white 5px;
     box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+    font-weight: 600;
   }
-
+  .main__9{
+    height: 185px;
+    background: #588cc7;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+    font-weight: 600;
+  }
+  .main__10{
+    height: 185px;
+    background: #588cc7;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+    font-weight: 600;
+  }
+  .main__11{
+    height: 185px;
+    background: #588cc7;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+    font-weight: 600;
+  }
+  .main__12{
+    height: 185px;
+    background: #588cc7;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+    font-weight: 600;
+  }
+  .main__13{
+    height: 145px;
+    background: #6652ad;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+    font-weight: 600;
+  }
+  .main__14{
+    height: 145px;
+    background: #6652ad;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+    font-weight: 600;
+  }
+  .main__15{
+    height: 145px;
+    background: #6652ad;
+    border:solid white 5px;
+    box-sizing: border-box;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+    font-weight: 600;
+  }
  
